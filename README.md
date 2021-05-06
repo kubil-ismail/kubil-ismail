@@ -23,7 +23,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/bilkis-ismail/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://bilkisismail07.medium.com/"><img alt="Medium" title="Medium" src="https://miro.medium.com/max/8978/1*s986xIGqhfsN8U--09_AdA.png"/></a>
+  <a href="https://bilkisismail07.medium.com/"><img alt="Medium" title="Medium" width="50px" src="https://miro.medium.com/max/8978/1*s986xIGqhfsN8U--09_AdA.png"/></a>
 </p>
 
 <p align="left">
