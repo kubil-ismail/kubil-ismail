@@ -26,6 +26,6 @@
   <a href="https://bilkisismail07.medium.com/"><img alt="Medium" title="Medium" width="120px" src="https://www.closer.pt/media/1862/medium-logo.png"/></a>
 </p>
 
-## 👨‍💻 Languages :
+## 👨‍💻 My Github stats :
 ![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=kubil-ismail&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kubil-ismail&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
