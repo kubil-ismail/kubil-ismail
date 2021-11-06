@@ -17,7 +17,7 @@
 
 ## 🔥 My contribution streak
 
-<p align="center">
+<p>
   <a href="https://github.com/kubil-ismail/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=kubil-ismail#version3"/>
   </a>
