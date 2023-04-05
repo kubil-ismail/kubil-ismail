@@ -1,6 +1,6 @@
 ## 📖 About me
 
-* 💻 I'm a full stack web developer
+* 💻 I'm a full stack web developer <a href="https://kubil.dev/">see more</a>
 * 🎨 I'm a self-taught UI designer
 * 📱 I make apps for Android
 * 📺 I make web development and tech tutorials on [Medium](https://bilkisismail07.medium.com/)
